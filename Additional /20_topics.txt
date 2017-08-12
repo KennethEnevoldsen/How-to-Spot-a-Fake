@@ -1,0 +1,88 @@
+<type 'unicode'>
+<type 'list'>
+<type 'list'>
+[u'trump', u'clinton', u'people', u'state', u'president', u'obama', u'campaign', u'time', u'hillary', u'party', u'states', u'election', u'government', u'years', u'year', u'world', u'house', u'new', u'news', u'republican', u'country', u'way', u'sanders', u'donald', u'war', u'voters', u'us', u'percent', u'republicans', u'media', u'day', u'america', u'united', u'law', u'candidate', u'cruz', u'police', u'americans', u'bush', u'policy', u'washington', u'gop', u'democrats', u'week', u'part', u'russia', u'white', u'security', u'bill', u'debate', u'support', u'congress', u'iran', u'power', u'candidates', u'group', u'women', u'court', u'times', u'fbi', u'fact', u'money', u'department', u'system', u'race', u'york', u'case', u'life', u'man', u'john', u'today', u'senate', u'things', u'administration', u'syria', u'officials', u'days', u'vote', u'point', u'secretary', u'rubio', u'health', u'something', u'tuesday', u'office', u'deal', u'post', u'city', u'information', u'night', u'isis', u'october', u'rights', u'report', u'supporters', u'nation', u'family', u'history', u'place', u'issues']
+topic 0
+[u'facebook', u'border', u'video', u'users', u'data', u'creamer', u'ice', u'google', u'wall', u'immigration', u'project', u'biden', u'veritas', u'study', u'gingrich', u'miss', u'israel', u'mexico', u'immigrants', u'university']
+----
+topic 1
+[u'water', u'iraq', u'islamic', u'paris', u'forces', u'iraqi', u'sunni', u'attacks', u'authorities', u'france', u'ukraine', u'attack', u'trade', u'minister', u'land', u'europe', u'capital', u'months', u'food', u'area']
+----
+topic 2
+[u'bank', u'gold', u'market', u'economy', u'workers', u'business', u'debt', u'banks', u'tax', u'parties', u'trade', u'budget', u'spending', u'countries', u'polarization', u'investment', u'cost', u'wage', u'jobs', u'politics']
+----
+topic 3
+[u'carson', u'email', u'fiorina', u'cnn', u'podesta', u'results', u'text', u'name', u'foundation', u'emails', u'fox', u'poll', u'business', u'questions', u'source', u'comment', u'coal', u'mail', u'server', u'issue']
+----
+topic 4
+[u'church', u'charleston', u'durst', u'cuba', u'officers', u'roof', u'gun', u'officer', u'ferguson', u'moon', u'death', u'com', u'baltimore', u'wilson', u'wint', u'murder', u'evidence', u'cuban', u'video', u'protesters']
+----
+topic 5 - Education (mixed?)
+[u'university', u'land', u'students', u'north', u'school', u'india', u'china', u'eurozone', u'data', u'access', u'rock', u'earthquake', u'silver', u'culture', u'dakota', u'campus', u'protesters', u'pipeline', u'population', u'gold']
+----
+topic 6
+[u'comey', u'investigation', u'emails', u'justice', u'lynch', u'abedin', u'weiner', u'officers', u'director', u'attorney', u'leader', u'twitter', u'children', u'foundation', u'movement', u'politics', u'work', u'move', u'email', u'change']
+----
+topic 7
+[u'care', u'emails', u'obamacare', u'supreme', u'marriage', u'gun', u'email', u'committee', u'insurance', u'god', u'act', u'muslim', u'fox', u'politics', u'anything', u'members', u'control', u'attack', u'subsidies', u'cnn']
+----
+topic 8
+[u'romney', u'gray', u'wall', u'street', u'jobs', u'yglesias', u'speech', u'banks', u'euro', u'politics', u'economy', u'wednesday', u'convention', u'nominee', u'national', u'twitter', u'woman', u'eurozone', u'thursday', u'problem']
+----
+topic 9
+[u'agreement', u'saudi', u'program', u'israel', u'yemen', u'netanyahu', u'foundation', u'weapons', u'intelligence', u'leaders', u'sanctions', u'attacks', u'islamic', u'kerry', u'minister', u'leader', u'threat', u'talks', u'speech', u'members']
+----
+topic 10
+[u'bannon', u'wikileaks', u'pence', u'khan', u'assange', u'children', u'cubs', u'speech', u'story', u'university', u'emails', u'don', u'iraq', u'mr', u'parents', u'paul', u'muslims', u'national', u'lot', u'woman']
+----
+topic 11 Johnson and johnson powder cause cancer
+[u'cancer', u'dr', u'study', u'blood', u'johnson', u'test', u'effects', u'species', u'disease', u'risk', u'studies', u'treatment', u'community', u'team', u'autism', u'children', u'patients', u'drug', u'woman', u'indians']
+----
+topic 12 - Defense policy
+[u'forces', u'iraq', u'air', u'islamic', u'admiral', u'rate', u'al', u'rates', u'force', u'fed', u'saudi', u'oil', u'coalition', u'interest', u'mosul', u'iraqi', u'army', u'libya', u'economy', u'defense']
+----
+topic 13
+[u'com', u'black', u'earth', u'children', u'pope', u'brussels', u'scientists', u'catholic', u'stars', u'university', u'ufo', u'francis', u'authorities', u'evidence', u'checkers', u'jesus', u'star', u'work', u'paul', u'attacks']
+----
+topic 14
+[u'marriage', u'sex', u'davis', u'county', u'zulu', u'licenses', u'islamic', u'sanctions', u'children', u'mosul', u'tata', u'couples', u'supreme', u'woman', u'decision', u'clerk', u'force', u'order', u'iraq', u'iraqi']
+----
+topic 15 - Internet labels
+[u'infowars', u'force', u'brain', u'content', u'source', u'iodine', u'http', u'video', u'www', u'html', u'medium', u'placement', u'tax', u'wellness', u'widget', u'list', u'story', u'rules', u'reform', u'taliban']
+----
+topic 16
+[u'christie', u'comey', u'iowa', u'director', u'investigation', u'fox', u'hampshire', u'someone', u'paul', u'change', u'justice', u'question', u'decision', u'thing', u'person', u'immigrants', u'polls', u'governor', u'november', u'violence']
+----
+topic 17 - Election and politics
+[u'convention', u'nomination', u'delegates', u'kasich', u'iowa', u'polls', u'florida', u'sen', u'senator', u'nominee', u'poll', u'ohio', u'bernie', u'points', u'ted', u'primary', u'saturday', u'gov', u'cnn', u'votes']
+----
+topic 18 - Defense policy
+[u'retired', u'putin', u'general', u'nato', u'forces', u'air', u'army', u'assad', u'aleppo', u'navy', u'russian', u'defense', u'oil', u'water', u'countries', u'force', u'rebels', u'turkey', u'groups', u'vladimir']
+----
+topic 19
+[u'tax', u'ryan', u'supreme', u'speaker', u'boehner', u'mcconnell', u'plan', u'majority', u'funding', u'conservatives', u'rep', u'taxes', u'paul', u'committee', u'nominee', u'members', u'scalia', u'afghan', u'immigration', u'care']
+----
+
+
+Most informative:
+Fake                        Real
+-2.0023	5              		4.3577	17
+	-1.8036	13             		3.0631	19
+	-1.3491	6              		1.9521	9
+	-1.1357	8              		0.5392	1
+	-1.1278	0              		0.4343	7
+	-1.1012	18             		0.3043	15
+	-0.9941	11             		0.2907	16
+	-0.4436	14             		0.1938	4
+	-0.4428	3              		0.0387	10
+	-0.2280	12             		-0.0710	2
+	-0.0710	2              		-0.2280	12
+	0.0387	10             		-0.4428	3
+	0.1938	4              		-0.4436	14
+	0.2907	16             		-0.9941	11
+	0.3043	15             		-1.1012	18
+	0.4343	7              		-1.1278	0
+	0.5392	1              		-1.1357	8
+	1.9521	9              		-1.3491	6
+	3.0631	19             		-1.8036	13
+	4.3577	17             		-2.0023	5

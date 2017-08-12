@@ -1,0 +1,68 @@
+<type 'unicode'>
+<type 'list'>
+<type 'list'>
+[u'trump', u'clinton', u'people', u'state', u'president', u'obama', u'campaign', u'time', u'hillary', u'party', u'states', u'election', u'government', u'years', u'year', u'world', u'house', u'new', u'news', u'republican', u'country', u'way', u'sanders', u'donald', u'war', u'voters', u'us', u'percent', u'republicans', u'media', u'day', u'america', u'united', u'law', u'candidate', u'cruz', u'police', u'americans', u'bush', u'policy', u'washington', u'gop', u'democrats', u'week', u'part', u'russia', u'white', u'security', u'bill', u'debate', u'support', u'congress', u'iran', u'power', u'candidates', u'group', u'women', u'court', u'times', u'fbi', u'fact', u'money', u'department', u'system', u'race', u'york', u'case', u'life', u'man', u'john', u'today', u'senate', u'things', u'administration', u'syria', u'officials', u'days', u'vote', u'point', u'secretary', u'rubio', u'health', u'something', u'tuesday', u'office', u'deal', u'post', u'city', u'information', u'night', u'isis', u'october', u'rights', u'report', u'supporters', u'nation', u'family', u'history', u'place', u'issues']
+topic 0
+[u'facebook', u'immigration', u'votes', u'data', u'immigrants', u'nominee', u'video', u'florida', u'polls', u'voter', u'voting', u'romney', u'ohio', u'wall', u'biden', u'politics', u'number', u'points', u'november', u'delegates']
+----
+topic 1 - Islam and Terror
+[u'water', u'iraq', u'islamic', u'paris', u'authorities', u'attacks', u'forces', u'iodine', u'attack', u'ukraine', u'france', u'pipeline', u'land', u'food', u'men', u'china', u'trade', u'violence', u'oil', u'control']
+----
+topic 2 - Economy
+[u'tax', u'bank', u'market', u'economy', u'business', u'gold', u'debt', u'banks', u'workers', u'companies', u'class', u'trade', u'cost', u'taxes', u'jobs', u'parties', u'countries', u'polarization', u'spending', u'wall']
+----
+topic 3 - Email investigation
+[u'carson', u'email', u'emails', u'poll', u'cnn', u'investigation', u'fox', u'results', u'fiorina', u'podesta', u'director', u'points', u'polls', u'source', u'server', u'name', u'comey', u'text', u'friday', u'mail']
+----
+topic 4 - Law enforcement
+[u'officers', u'gun', u'church', u'durst', u'charleston', u'ferguson', u'baltimore', u'violence', u'officer', u'death', u'video', u'enforcement', u'justice', u'crime', u'wilson', u'protesters', u'authorities', u'cuba', u'com', u'twitter']
+----
+topic 5 - Education (and some mix)
+[u'university', u'land', u'eurozone', u'north', u'rock', u'china', u'students', u'school', u'access', u'dakota', u'india', u'data', u'pipeline', u'water', u'area', u'gold', u'silver', u'star', u'earthquake', u'population']
+----
+topic 6 Comey Investigation
+[u'comey', u'investigation', u'children', u'justice', u'director', u'emails', u'violence', u'matter', u'change', u'thing', u'abedin', u'twitter', u'officers', u'course', u'reason', u'james', u'email', u'person', u'work', u'someone']
+----
+topic 7 Health Care (General politics)
+[u'care', u'supreme', u'convention', u'committee', u'obamacare', u'emails', u'force', u'cnn', u'justice', u'rules', u'act', u'politics', u'infowars', u'delegates', u'fox', u'email', u'gun', u'majority', u'insurance', u'members']
+----
+topic 8
+[u'retired', u'romney', u'jobs', u'street', u'gray', u'jeb', u'wall', u'convention', u'politics', u'speech', u'nominee', u'trade', u'economy', u'florida', u'wednesday', u'growth', u'problem', u'philadelphia', u'twitter', u'bernie']
+----
+topic 9 - Republican Party?
+[u'agreement', u'paul', u'boehner', u'foundation', u'ryan', u'program', u'israel', u'netanyahu', u'leaders', u'members', u'speaker', u'threat', u'intelligence', u'leader', u'weapons', u'sen', u'majority', u'sanctions', u'rep', u'wednesday']
+----
+topic 10
+[u'pence', u'bannon', u'fox', u'paul', u'nominee', u'speech', u'university', u'story', u'don', u'sen', u'khan', u'mr', u'interview', u'lot', u'iraq', u'wikileaks', u'attacks', u'cnn', u'governor', u'comments']
+----
+topic 11 - Election?
+[u'iowa', u'hampshire', u'christie', u'polls', u'nomination', u'kasich', u'gov', u'delegates', u'poll', u'johnson', u'florida', u'sen', u'governor', u'senator', u'cancer', u'points', u'ted', u'stage', u'saturday', u'nominee']
+----
+topic 12 - Defense Policy
+[u'forces', u'air', u'iraq', u'islamic', u'nato', u'saudi', u'army', u'force', u'defense', u'al', u'general', u'coalition', u'admiral', u'navy', u'oil', u'countries', u'russian', u'rate', u'iraqi', u'rates']
+----
+topic 13
+[u'com', u'earth', u'paul', u'children', u'scientists', u'ryan', u'stars', u'evidence', u'pope', u'brussels', u'checkers', u'work', u'black', u'catholic', u'energy', u'jesus', u'church', u'authorities', u'university', u'attack']
+----
+topic 14
+[u'marriage', u'davis', u'sex', u'decision', u'afghan', u'program', u'islamic', u'supreme', u'county', u'force', u'licenses', u'justice', u'thursday', u'forces', u'general', u'children', u'judge', u'comey', u'emails', u'immigration']
+----
+
+
+Most informative Features:
+Fake                        Real
+-5.7817	5              		1.5946	11
+	-4.3052	13             		0.2658	9
+	-3.0369	6              		0.0868	10
+	-2.3481	12             		-0.4775	7
+	-1.9165	8              		-1.2030	2
+	-1.8764	3              		-1.2530	14
+	-1.5889	0              		-1.4322	1
+	-1.4671	4              		-1.4671	4
+	-1.4322	1              		-1.5889	0
+	-1.2530	14             		-1.8764	3
+	-1.2030	2              		-1.9165	8
+	-0.4775	7              		-2.3481	12
+	0.0868	10             		-3.0369	6
+	0.2658	9              		-4.3052	13
+	1.5946	11             		-5.7817	5
